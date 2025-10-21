@@ -1,0 +1,15 @@
+How much energy does it contain? or it can store? measured using battery capacity/ (mAh or Wh)
+How fast can we store or deliver this energy to the load?
+	They can only deliver energy at a particular rate
+	
+----------------------------------------------------------
+
+Po = 2.5W
+Lasting 5h
+
+Pin*Eff = Po
+at .8 effieciency (80%)
+Pin = 2.5/ .8 = 3.125W
+
+3.3W = 1hr
+1.6W = ?
